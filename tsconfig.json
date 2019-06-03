@@ -15,7 +15,8 @@
 		"skipLibCheck": true,
 		"strict": true,
 		"resolveJsonModule":true,
-		 "esModuleInterop": true 
+		 "esModuleInterop": true,
+		"allowJs": true
 	},
 	"include": [
 		"./Oracle/**/*", "*.ts"
